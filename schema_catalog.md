@@ -1,3 +1,1 @@
 - sales_order_facts: 매출, 결제, 환불, 채널별 실적 조회
-- ops_support_cases: 운영 문의, SLA, 처리 상태 조회
-- inventory_daily_stock: 재고 수량, 품절 상태, 창고별 재고 조회
